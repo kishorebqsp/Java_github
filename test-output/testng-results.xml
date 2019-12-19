@@ -8,12 +8,12 @@
       <![CDATA[2]]>
     </line>
   </reporter-output>
-  <suite name="Default suite" duration-ms="14158" started-at="2019-12-19T14:25:33Z" finished-at="2019-12-19T14:25:47Z">
+  <suite name="Suite" duration-ms="16543" started-at="2019-12-19T14:45:13Z" finished-at="2019-12-19T14:45:30Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="14158" started-at="2019-12-19T14:25:33Z" finished-at="2019-12-19T14:25:47Z">
+    <test name="Test" duration-ms="16543" started-at="2019-12-19T14:45:13Z" finished-at="2019-12-19T14:45:30Z">
       <class name="scripts.InvaliLogin">
-        <test-method status="PASS" signature="testInvaliLogin()[pri:0, instance:scripts.InvaliLogin@387c703b]" name="testInvaliLogin" duration-ms="14146" started-at="2019-12-19T19:55:33Z" finished-at="2019-12-19T19:55:47Z">
+        <test-method status="PASS" signature="testInvaliLogin()[pri:0, instance:scripts.InvaliLogin@490d6c15]" name="testInvaliLogin" duration-ms="16492" started-at="2019-12-19T20:15:13Z" finished-at="2019-12-19T20:15:30Z">
           <reporter-output>
             <line>
               <![CDATA[1]]>
@@ -24,6 +24,6 @@
           </reporter-output>
         </test-method> <!-- testInvaliLogin -->
       </class> <!-- scripts.InvaliLogin -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
